@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-import sklearn
+from sklearn import preprocessing
 from PIL import Image
 import pickle
 
