@@ -1,6 +1,1 @@
 Streamlit
-pandas
-numpy
-matplotlib
-seaborn
-skleran
